@@ -1,5 +1,5 @@
 # Configure-New-Model
-A script to update various view settings that I prefer.
+A script to update various view settings to my preferences.
 
 See also: [How to use Femap Scripts](https://github.com/aaronjasso/How_to_use_Femap_Scripts) and [The List of my Femap Scripts](https://github.com/aaronjasso/My-Femap-Scripts)
 
