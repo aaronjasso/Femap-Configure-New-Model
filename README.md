@@ -62,7 +62,7 @@ The script currently changes the following view settings.
 * Use view color for labels
 
 #### Criteria - Elements that Pass/Fail
-* Don't show labels
+* Don't show labels on passing elements
 * Draw failed elements
 * Label failing elements
 
