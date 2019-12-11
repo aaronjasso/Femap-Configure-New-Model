@@ -9,6 +9,9 @@ When starting a new model (or opening someone else's model), I used to have to c
 
 **This script is license-free** and released into the public domain.
 
+##### New in v1 (12/11/2019)
+I added a few additional configurations, including changing all the label text, legend text, and post title text to white. Also added a change to the background to return it to the blue gradient from older versions of Femap
+
 ---
 
 ## What it does
@@ -19,6 +22,7 @@ The script currently changes the following view settings.
 #### Label Parameters
 * View, Erase Back
 * Text Depth Offset: 5
+* Set text color to white
 
 #### Element
 * Color Mode: Property Colors
@@ -39,6 +43,9 @@ The script currently changes the following view settings.
 #### Free Edge and Face
 * Draw model when displaying free edge
 
+#### View Legend
+* Set text color to white
+
 #### View Axis
 * Move axis to the bottom left edge
 
@@ -49,6 +56,9 @@ The script currently changes the following view settings.
 * Symbol size: 5
 
 ### 3. PostProcessing
+
+#### Post Titles
+* Set text color to white
 
 #### Deformed Style
 * Set deformed model scale to 5% of model
@@ -68,3 +78,4 @@ The script currently changes the following view settings.
 
 ### 4. Other
 * Rename first view to "Working"
+* Set background to vertical shade, from color 0 to color 80 (this was the default in older version of Femap and I prefer it over the newer grey shading)
