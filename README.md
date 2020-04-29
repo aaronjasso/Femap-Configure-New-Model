@@ -55,6 +55,9 @@ The script currently changes the following view settings.
 #### Symbols
 * Symbol size: 5
 
+#### Preview
+* Change Preview color from black to white
+
 ### 3. PostProcessing
 
 #### Post Titles
